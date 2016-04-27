@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./delectusopuscul02frangoog_0260.png"; bbox 0 0 2586 4480; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 416 1687 751 1724">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 416 1687 751 1724">
+     <span class='ocr_line' id='line_1_1' title="bbox 416 1687 751 1724; baseline -0.009 -5"><span class='ocrx_word' id='word_1_1' title='bbox 416 1687 751 1724; x_wconf 56' lang='lat' dir='ltr'><em>m</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 232 1820 945 1896">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 232 1820 945 1896">
+     <span class='ocr_line' id='line_1_2' title="bbox 232 1820 945 1896; baseline -0.017 -10"><span class='ocrx_word' id='word_1_2' title='bbox 232 1829 285 1886; x_wconf 70' lang='lat' dir='ltr'><em>lex</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 303 1827 416 1882; x_wconf 71' lang='lat' dir='ltr'><em>venitin</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 434 1824 515 1896; x_wconf 71' lang='lat' dir='ltr'><strong><em>hujus</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 532 1821 654 1876; x_wconf 73' lang='lat' dir='ltr'><strong><em>editionis</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 672 1822 792 1887; x_wconf 71' lang='lat' dir='ltr'><em>tutelam,</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 811 1837 869 1874; x_wconf 78' lang='lat' dir='ltr'><em>oum</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 887 1820 945 1892; x_wconf 75' lang='lat' dir='ltr'><em>ejus</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 334 1931 843 2012">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 334 1931 843 2012">
+     <span class='ocr_line' id='line_1_3' title="bbox 334 1931 843 2012; baseline -0.016 -20"><span class='ocrx_word' id='word_1_9' title='bbox 334 1937 420 2012; x_wconf 70' lang='lat' dir='ltr'><em>jussis</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 437 1953 464 1990; x_wconf 72' lang='lat' dir='ltr'><em>u</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 479 1932 641 2004; x_wconf 59' lang='lat' dir='ltr'><em>praestituit</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 659 1931 843 2003; x_wconf 57' lang='lat' dir='ltr'><em>ypogmphus.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 417 2098 749 2136">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 417 2098 749 2136">
+     <span class='ocr_line' id='line_1_4' title="bbox 417 2098 749 2136; baseline -0.018 2"><span class='ocrx_word' id='word_1_13' title='bbox 417 2098 749 2136; x_wconf 61' lang='lat' dir='ltr'><em>-md-u—-n</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1298 4480">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1298 4480">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 1298 4480; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1298 4480; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
